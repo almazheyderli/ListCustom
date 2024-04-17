@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\c#OOP\listCustom\listTask\listTask\bin\Debug\net8.0\listTask.exe
+C:\Users\User\Desktop\c#OOP\listCustom\listTask\listTask\bin\Debug\net8.0\listTask.deps.json
+C:\Users\User\Desktop\c#OOP\listCustom\listTask\listTask\bin\Debug\net8.0\listTask.runtimeconfig.json
+C:\Users\User\Desktop\c#OOP\listCustom\listTask\listTask\bin\Debug\net8.0\listTask.dll
+C:\Users\User\Desktop\c#OOP\listCustom\listTask\listTask\bin\Debug\net8.0\listTask.pdb
+C:\Users\User\Desktop\c#OOP\listCustom\listTask\listTask\obj\Debug\net8.0\listTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c#OOP\listCustom\listTask\listTask\obj\Debug\net8.0\listTask.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#OOP\listCustom\listTask\listTask\obj\Debug\net8.0\listTask.AssemblyInfo.cs
+C:\Users\User\Desktop\c#OOP\listCustom\listTask\listTask\obj\Debug\net8.0\listTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#OOP\listCustom\listTask\listTask\obj\Debug\net8.0\listTask.sourcelink.json
+C:\Users\User\Desktop\c#OOP\listCustom\listTask\listTask\obj\Debug\net8.0\listTask.dll
+C:\Users\User\Desktop\c#OOP\listCustom\listTask\listTask\obj\Debug\net8.0\refint\listTask.dll
+C:\Users\User\Desktop\c#OOP\listCustom\listTask\listTask\obj\Debug\net8.0\listTask.pdb
+C:\Users\User\Desktop\c#OOP\listCustom\listTask\listTask\obj\Debug\net8.0\listTask.genruntimeconfig.cache
+C:\Users\User\Desktop\c#OOP\listCustom\listTask\listTask\obj\Debug\net8.0\ref\listTask.dll
